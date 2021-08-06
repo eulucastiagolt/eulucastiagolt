@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá!! Sou Lucas Tiago 👋
 
 <!--
 **eulukasthyago/eulukasthyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Lucas Tiago](https://github-readme-stats.vercel.app/api?username=eulukasthyago&show_icons=true&theme=gruvbox)](https://github.com/eulukasthyago)
