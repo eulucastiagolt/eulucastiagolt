@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Lucas Tiago](https://github-readme-stats.vercel.app/api?username=eulukasthyago&show_icons=true&theme=gruvbox)](https://github.com/eulukasthyago)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulukasthyago&layout=compact)](https://github.com/eulukasthyago)
