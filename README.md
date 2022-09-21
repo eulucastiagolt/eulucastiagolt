@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 [![Medium Badge](https://img.shields.io/badge/Medium-2a2a2a?logo=medium&logoColor=fff&style=flat-square)](https://medium.com/@eulukasthyago)
 
 ### Me encontre em
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](www.linkedin.com/in/eulukasthyago){:target="_blank"}
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)](http://instagram.com/eulukasthyago)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/eulukasthyago){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)](http://instagram.com/eulukasthyago){:target="_blank"}
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ffc864?logo=instagram&logoColor=2a2a2a&style=flat-square)](http://instagram.com/webcolmeia)
 [![dev.to Badge](https://img.shields.io/badge/dev.to-2a2a2a?logo=devdotto&logoColor=fff&style=flat-square)](https://dev.to/eulukasthyago)
 [![dev.to Badge](https://img.shields.io/badge/dev.to-ffc864?logo=devdotto&logoColor=2a2a2a&style=flat-square)](https://dev.to/webcolmeia)
