@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 ### Alguns projetos
 |                                    🎁 Projetos                                   	|                                                                  ⭐️ Estrelas                                                                 	|
 |:-------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------------------------------------------------------------:	|
+| [post-prompt-generator](https://github.com/eulukasthyago/post-prompt-generator)   | ![GitHub Repo stars](https://img.shields.io/github/stars/eulukasthyago/post-prompt-generator?color=%23ff6600&logo=github&style=flat-square)                	|
 | [svgtourl](https://github.com/webcolmeia/svgtourl)                              	| ![GitHub Repo stars](https://img.shields.io/github/stars/webcolmeia/svgtourl?color=%23ff6600&logo=github&style=flat-square)                 	|
 | [YouTube-Player-Custom](https://github.com/eulukasthyago/YouTube-Player-Custom) 	| ![GitHub Repo stars](https://img.shields.io/github/stars/eulukasthyago/YouTube-Player-Custom?color=%23ff6600&logo=github&style=flat-square) 	|
-| [beeyou](https://github.com/eulukasthyago/beeyou)                               	| ![GitHub Repo stars](https://img.shields.io/github/stars/eulukasthyago/beeyou?color=%23ff6600&logo=github&style=flat-square)                	|
 | [app-playcloud](https://github.com/webplayclod/app-playcloud)                   	| ![GitHub Repo stars](https://img.shields.io/github/stars/webplayclod/app-playcloud?color=%23ff6600&logo=github&style=flat-square)           	|
 | [wc-design](https://github.com/eulukasthyago/wc-design)                         	| ![GitHub Repo stars](https://img.shields.io/github/stars/eulukasthyago/wc-design?color=%23ff6600&logo=github&style=flat-square)             	|
 
