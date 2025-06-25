@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![Woo Badge](https://img.shields.io/badge/Woo-96588A?logo=woo&logoColor=fff&style=flat-square)
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat-square)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eulucastiagolt&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Alguns projetos
 |                                    🎁 Projetos                                   	|                                                                  ⭐️ Estrelas                                                                 	|
